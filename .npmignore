@@ -1,1 +1,2 @@
-# Ignoring nothing. Publishing both src and lib to npm
+# Ignoring only the test directory. Publishing both src and lib to npm
+test
